@@ -82,7 +82,32 @@ const App = () => {
   const LOCAL_STORAGE_KEY = "wastageFormDraft"; // Local storage key name
 
   const stores = ["NT", "KT", "BC", "BB", "GP"];
-  const employees = ["Ethan", "Bella", "Mia", "Leo", "Amy"]; // Replace with your actual employee list
+  const employees = [
+    "Kylie",
+    "Isabel",
+    "Lizzie",
+    "Bridey",
+    "Zara",
+    "Lia",
+    "Anais",
+    "Nicholas",
+    "Lance",
+    "Dianne",
+    "Katrina",
+    "Fletcher",
+    "Monique",
+    "Kris",
+    "Olive",
+    "Hannah",
+    "Soraya",
+    "Emmanuelle",
+    "Rika",
+    "Yuriko",
+    "Tara",
+    "Jake",
+    "Felicia",
+    "Nate",
+  ];
 
   // --- State Initialization and Local Storage Loading ---
 
